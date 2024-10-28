@@ -1,1 +1,1 @@
-print("The Yolo Batch")
+print("The Yolo Badge")
